@@ -1,0 +1,9 @@
+// AUTO-GENERATED MODULES - Add these to app.module.ts imports array
+import { ConfigurationsModule } from './modules/configurations/configurations.module';
+import { ConfigurationversionsModule } from './modules/configurationversions/configurationversions.module';
+import { SubscriptionsModule } from './modules/subscriptions/subscriptions.module';
+
+// Add to @Module imports array:
+// ConfigurationsModule,
+// ConfigurationversionsModule,
+// SubscriptionsModule
